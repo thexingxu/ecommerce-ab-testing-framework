@@ -1,0 +1,10 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data files (keep raw logs out of git history)
+data/
+
+# Jupyter checkpoint artifacts
+.ipynb_checkpoints/
